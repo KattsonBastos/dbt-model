@@ -8,8 +8,8 @@ Tasks:
 
 - [x] Edit dbt project file
 - [x] create profile file
-- [ ] create base models 
-- [ ] create relational model
-- [ ] create schema
+- [x] create base models 
+- [x] create relational model
+- [x] create schema
 - [ ] test the execution 
 - [ ] check data transformation in DW
