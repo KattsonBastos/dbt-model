@@ -11,5 +11,5 @@ Tasks:
 - [x] create base models 
 - [x] create relational model
 - [x] create schema
-- [ ] test the execution 
-- [ ] check data transformation in DW
+- [x] test the execution 
+- [x] check data transformation in DW
